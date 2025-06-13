@@ -27,7 +27,7 @@ The primary goal of this project:
     - laptop-TG
     - mobile-TG
 
-![Project-IMG.jpg](attachment:b7a889b1-ff3d-4cff-a03b-aca8ce90149f:Project-IMG.jpg)
+![Project Screenshot](Project-IMG.jpg)
 
 ## **Tools and Technologies**
 
